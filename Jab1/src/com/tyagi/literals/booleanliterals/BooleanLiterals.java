@@ -28,7 +28,7 @@ public class BooleanLiterals {
 		System.out.println(b);*/
 	}
 }
-
+/*
 
 ==========================================================================================
 
@@ -38,4 +38,4 @@ Program Of Boolean Literals
 If Part True
 b5 is Boolean ref. Type
 
-The b5 and b6 is declare due to Wrapper Class and due to this value is assigned 
+The b5 and b6 is declare due to Wrapper Class and due to this value is assigned */
