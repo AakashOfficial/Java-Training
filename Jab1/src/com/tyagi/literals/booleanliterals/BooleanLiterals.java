@@ -14,7 +14,7 @@ public class BooleanLiterals {
 			System.out.println("If Part True");
 		else 
 			System.out.println("Else Part");
-
+       
 		Boolean b5 = true;
 		Boolean b6 = false;
 		if (b5)
@@ -28,3 +28,14 @@ public class BooleanLiterals {
 		System.out.println(b);*/
 	}
 }
+
+
+==========================================================================================
+
+Output :- 
+ 
+Program Of Boolean Literals
+If Part True
+b5 is Boolean ref. Type
+
+The b5 and b6 is declare due to Wrapper Class and due to this value is assigned 
